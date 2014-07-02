@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C1EECD21-4E33-4844-9FFD-F2E588587FDD}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AIYSFederation</RootNamespace>
+    <AssemblyName>AIYSFederation</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Contactus.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="Events.aspx" />
+    <Content Include="FormsDownloads.aspx" />
+    <Content Include="Home.aspx" />
+    <Content Include="Images\Events\Panchgani-2May2014.jpg" />
+    <Content Include="Images\Forms\Sports Carnival - Registration Form.jpg" />
+    <Content Include="Images\Home\ScrollingBanner\1.jpg" />
+    <Content Include="Images\Home\ScrollingBanner\2.jpg" />
+    <Content Include="Images\Home\ScrollingBanner\3.jpg" />
+    <Content Include="Images\Home\ScrollingBanner\4.jpg" />
+    <Content Include="Images\Home\ScrollingBanner\5.jpg" />
+    <Content Include="Images\Home\SlidingBanner\1.jpg" />
+    <Content Include="Images\Home\SlidingBanner\2.jpg" />
+    <Content Include="Images\Home\SlidingBanner\3.jpg" />
+    <Content Include="Images\Home\SlidingBanner\4.jpg" />
+    <Content Include="Images\Home\SlidingBanner\5.jpg" />
+    <Content Include="Images\Masterpage\All India Logo .jpg" />
+    <Content Include="Images\Masterpage\bg-1.jpg" />
+    <Content Include="Images\Masterpage\bg-2.jpg" />
+    <Content Include="Images\Masterpage\bg-3.png" />
+    <Content Include="Images\Masterpage\bg-4.jpg" />
+    <Content Include="Images\Masterpage\bg-5.jpg" />
+    <Content Include="Images\Masterpage\bg-6.jpg" />
+    <Content Include="Images\Masterpage\bg.6.jpg" />
+    <Content Include="Images\Masterpage\City Football Logo .jpg" />
+    <Content Include="Images\Masterpage\home.jpg" />
+    <Content Include="Images\PhotoGallery\1-mousehover.jpg" />
+    <Content Include="Images\PhotoGallery\1.jpg" />
+    <Content Include="Images\PhotoGallery\2-mousehover.jpg" />
+    <Content Include="Images\PhotoGallery\2.jpg" />
+    <Content Include="Images\PhotoGallery\3 - Copy - Copy - Copy.jpg" />
+    <Content Include="Images\PhotoGallery\3-mousehover.jpg" />
+    <Content Include="Images\PhotoGallery\3.jpg" />
+    <Content Include="Images\PhotoGallery\4 - Copy - Copy - Copy.jpg" />
+    <Content Include="Images\PhotoGallery\4-mousehover.jpg" />
+    <Content Include="Images\PhotoGallery\4.jpg" />
+    <Content Include="Images\PhotoGallery\5 - Copy - Copy - Copy.jpg" />
+    <Content Include="Images\PhotoGallery\5-mousehover.jpg" />
+    <Content Include="Images\PhotoGallery\5.jpg" />
+    <Content Include="PhotoGallery.aspx" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <Content Include="Scripts\jquery-1.3.2.min.js" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Scripts\jquery-1.4.4.min.js" />
+    <Content Include="Scripts\jquery-1.6.1.min.js" />
+    <Content Include="Scripts\jquery-1.8.2.js" />
+    <Content Include="Scripts\jquery-1.9.1.js" />
+    <Content Include="Scripts\jquery-ui.js" />
+    <Content Include="Scripts\jquery.corner.js" />
+    <Content Include="Scripts\jquery.cycle.all.latest.js" />
+    <Content Include="Scripts\jquery.min.js" />
+    <Content Include="Scripts\jquery.nivo.slider.pack.js" />
+    <Content Include="Scripts\jquery.rating.js" />
+    <Content Include="Scripts\jquery.rotate.js" />
+    <Content Include="Scripts\jquery.simplyscroll.js" />
+    <Content Include="Scripts\jquery.tools.min.js" />
+    <Content Include="Scripts\mouseover_popup.js" />
+    <Content Include="Styles\AIYSF.css" />
+    <Content Include="Styles\jquery.simplyscroll.css" />
+    <Content Include="Styles\mouseoverImgPopupstyle.css" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AIYSF.Master.cs">
+      <DependentUpon>AIYSF.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AIYSF.Master.designer.cs">
+      <DependentUpon>AIYSF.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Contactus.aspx.cs">
+      <DependentUpon>Contactus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contactus.aspx.designer.cs">
+      <DependentUpon>Contactus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Events.aspx.cs">
+      <DependentUpon>Events.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Events.aspx.designer.cs">
+      <DependentUpon>Events.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormsDownloads.aspx.cs">
+      <DependentUpon>FormsDownloads.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FormsDownloads.aspx.designer.cs">
+      <DependentUpon>FormsDownloads.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PhotoGallery.aspx.cs">
+      <DependentUpon>PhotoGallery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PhotoGallery.aspx.designer.cs">
+      <DependentUpon>PhotoGallery.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AIYSF.Master" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>22615</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

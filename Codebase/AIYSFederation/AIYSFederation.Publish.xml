@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\Atul-Personal\Projects\1-IIS-Published Sites-Folders\AIYSFederation" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Default.aspx" publishTime="04/17/2014 14:38:30" />
+    <file relUrl="Images/PhotoGallery/3.jpg" publishTime="04/18/2014 11:08:21" />
+    <file relUrl="Scripts/jquery.corner.js" publishTime="12/26/2012 19:30:09" />
+    <file relUrl="Images/Masterpage/bg-6.jpg" publishTime="04/17/2014 14:45:20" />
+    <file relUrl="Images/Home/SlidingBanner/1.jpg" publishTime="04/18/2014 14:07:57" />
+    <file relUrl="Images/Masterpage/City Football Logo .jpg" publishTime="04/17/2014 09:54:22" />
+    <file relUrl="Contactus.aspx" publishTime="04/28/2014 08:50:06" />
+    <file relUrl="Images/PhotoGallery/5.jpg" publishTime="04/18/2014 11:40:30" />
+    <file relUrl="bin/AIYSFederation.dll" publishTime="04/19/2014 21:29:37" />
+    <file relUrl="Styles/AIYSF.css" publishTime="04/18/2014 20:36:58" />
+    <file relUrl="Web.config" publishTime="04/18/2014 20:19:03" />
+    <file relUrl="Images/PhotoGallery/5 - Copy - Copy - Copy.jpg" publishTime="04/17/2014 09:52:48" />
+    <file relUrl="Images/Home/ScrollingBanner/5.jpg" publishTime="04/18/2014 11:40:30" />
+    <file relUrl="Images/Forms/Sports Carnival - Registration Form.jpg" publishTime="04/18/2014 20:18:49" />
+    <file relUrl="Events.aspx" publishTime="04/18/2014 14:00:24" />
+    <file relUrl="Images/PhotoGallery/2-mousehover.jpg" publishTime="04/19/2014 11:43:56" />
+    <file relUrl="Images/PhotoGallery/3 - Copy - Copy - Copy.jpg" publishTime="04/17/2014 09:52:48" />
+    <file relUrl="Scripts/jquery-1.9.1.js" publishTime="10/22/2013 15:05:44" />
+    <file relUrl="Scripts/jquery-ui.js" publishTime="10/22/2013 15:06:08" />
+    <file relUrl="Scripts/jquery-1.4.4.min.js" publishTime="01/18/2013 16:52:42" />
+    <file relUrl="bin/AIYSFederation.pdb" publishTime="04/19/2014 21:29:37" />
+    <file relUrl="Images/Home/SlidingBanner/4.jpg" publishTime="04/18/2014 14:09:46" />
+    <file relUrl="PhotoGallery.aspx" publishTime="04/19/2014 11:56:19" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="04/17/2014 14:38:30" />
+    <file relUrl="Images/Home/SlidingBanner/5.jpg" publishTime="04/18/2014 14:10:13" />
+    <file relUrl="Images/Masterpage/All India Logo .jpg" publishTime="04/17/2014 09:54:22" />
+    <file relUrl="Images/Masterpage/bg-1.jpg" publishTime="04/17/2014 14:22:00" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="04/17/2014 14:38:30" />
+    <file relUrl="Images/PhotoGallery/5-mousehover.jpg" publishTime="04/19/2014 11:44:48" />
+    <file relUrl="Scripts/jquery.simplyscroll.js" publishTime="04/16/2014 15:58:05" />
+    <file relUrl="Styles/mouseoverImgPopupstyle.css" publishTime="01/07/2009 00:17:14" />
+    <file relUrl="Home.aspx" publishTime="04/18/2014 21:18:52" />
+    <file relUrl="Images/Home/ScrollingBanner/1.jpg" publishTime="04/18/2014 11:07:24" />
+    <file relUrl="Scripts/jquery-1.3.2.min.js" publishTime="01/18/2013 16:52:42" />
+    <file relUrl="Scripts/jquery-1.8.2.js" publishTime="10/30/2013 17:22:44" />
+    <file relUrl="Scripts/jquery.min.js" publishTime="01/17/2014 12:21:38" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="04/17/2014 14:38:30" />
+    <file relUrl="Images/PhotoGallery/2.jpg" publishTime="04/18/2014 11:07:57" />
+    <file relUrl="Scripts/jquery-1.10.2.min.js" publishTime="07/06/2013 21:32:32" />
+    <file relUrl="Scripts/mouseover_popup.js" publishTime="11/21/2008 14:07:18" />
+    <file relUrl="Images/PhotoGallery/4.jpg" publishTime="04/18/2014 11:40:02" />
+    <file relUrl="Scripts/jquery.tools.min.js" publishTime="01/17/2014 12:30:40" />
+    <file relUrl="Images/Masterpage/bg-5.jpg" publishTime="04/18/2014 22:49:15" />
+    <file relUrl="Scripts/jquery-1.6.1.min.js" publishTime="01/18/2013 16:52:42" />
+    <file relUrl="Scripts/jquery.cycle.all.latest.js" publishTime="12/19/2012 09:25:14" />
+    <file relUrl="Images/Home/ScrollingBanner/3.jpg" publishTime="04/18/2014 11:08:21" />
+    <file relUrl="Images/PhotoGallery/1-mousehover.jpg" publishTime="04/19/2014 11:43:35" />
+    <file relUrl="Images/Home/SlidingBanner/2.jpg" publishTime="04/18/2014 14:08:25" />
+    <file relUrl="Scripts/jquery.rotate.js" publishTime="10/28/2010 11:03:18" />
+    <file relUrl="AIYSF.Master" publishTime="04/19/2014 21:30:26" />
+    <file relUrl="Images/PhotoGallery/4 - Copy - Copy - Copy.jpg" publishTime="04/17/2014 09:52:48" />
+    <file relUrl="Scripts/jquery.rating.js" publishTime="04/03/2014 16:21:07" />
+    <file relUrl="Images/PhotoGallery/3-mousehover.jpg" publishTime="04/19/2014 11:44:14" />
+    <file relUrl="Images/PhotoGallery/1.jpg" publishTime="04/18/2014 11:07:24" />
+    <file relUrl="Images/Masterpage/bg-4.jpg" publishTime="04/18/2014 22:47:47" />
+    <file relUrl="Images/Home/SlidingBanner/3.jpg" publishTime="04/18/2014 14:09:11" />
+    <file relUrl="Images/Home/ScrollingBanner/2.jpg" publishTime="04/18/2014 11:07:57" />
+    <file relUrl="Images/Masterpage/bg-2.jpg" publishTime="04/18/2014 22:44:11" />
+    <file relUrl="Scripts/jquery.nivo.slider.pack.js" publishTime="12/13/2011 15:14:28" />
+    <file relUrl="Images/Home/ScrollingBanner/4.jpg" publishTime="04/18/2014 11:40:02" />
+    <file relUrl="Images/Masterpage/home.jpg" publishTime="04/17/2014 20:17:15" />
+    <file relUrl="Images/Masterpage/bg-3.png" publishTime="04/18/2014 20:32:07" />
+    <file relUrl="Styles/jquery.simplyscroll.css" publishTime="04/16/2014 15:52:22" />
+    <file relUrl="Images/Events/Panchgani-2May2014.jpg" publishTime="04/18/2014 20:18:19" />
+    <file relUrl="Images/PhotoGallery/4-mousehover.jpg" publishTime="04/19/2014 11:44:31" />
+    <file relUrl="FormsDownloads.aspx" publishTime="04/18/2014 14:17:23" />
+    <file relUrl="Images/Masterpage/bg.6.jpg" publishTime="04/19/2014 21:28:57" />
+  </publishProfile>
+</publishData>

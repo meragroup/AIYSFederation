@@ -1,0 +1,174 @@
+﻿/********** MasterPage Styles **********/
+.headerTopArea
+{    
+    background:#F98C2D;  
+    width:100%; 
+    margin-top:-10px;
+    border-radius:4px;
+    font-family:Sans-Serif;
+    font-size:12px;
+    font-weight:300; 
+    text-decoration:none;
+}
+
+.headerText
+{
+    color:White;  
+    font-family:Sans-Serif;
+    font-size:12px;
+    font-weight:300; 
+    text-decoration:none;
+}
+
+.hrRedLine
+{
+    width:100%;
+    border-color:#996600; 
+    border-width:0.5px; 
+    border-style:solid;
+}
+
+.hrDarkLine
+{
+    width:100%;
+    border-color:#333333; 
+    border-width:0.5px; 
+    border-style:solid;
+}
+
+.hrLightLine
+{
+    width:100%;
+    border-color:#CCCCCC;      
+    border-width:thin;
+    border-style:solid;
+}
+
+.footerArea
+{
+    height:auto; 
+    /*background:#EFEFEF; */
+    background:#F98C2D;
+    font-family:Sans-Serif; 
+    font-weight:300; 
+    font-size:12px;
+    line-height:25px;
+    margin-top:-10px;
+    border-radius:4px;   
+}
+
+.footerHeading
+{
+     /*color:#333333;*/
+     color:White;
+     font-family:Sans-Serif; 
+     font-weight:bolder;      
+     font-size:16px;     
+}
+.footerText
+{
+     /*color:#F98C2D;*/
+     color:White;
+     font-family:Sans-Serif; 
+     font-weight:300; 
+     font-size:14px;
+     text-decoration:none;              
+}
+
+.logoArea
+{
+    background:#F98C2D;    
+}
+
+.logoText
+{
+    color:#FFFFFF;
+    font-family:Comic Sans MS;
+    font-weight:bold;
+    font-size:26px; 
+}
+.menuText
+{
+    color:#333333;
+    font-family:Sans-Serif; 
+    font-weight:bold; 
+    font-size:16px;
+    text-decoration:none;       
+}
+
+/********** HomePage Styles **********/
+.contentArea
+{   
+    width: 100%;      
+    min-height:500px; 
+    height:auto; 
+    background-color:#001159; 
+    border-radius:8px;     
+}
+
+.quickMenu
+{
+    background-color:#FFFFFF;
+    min-height:474px;
+    height:auto; 
+    width:100%;
+    border-color:#CCCCCC; 
+    border-width:1px; 
+    border-style:solid; 
+    border-radius:8px;
+    font-family:Sans-Serif;  
+    font-size:14px;
+}
+
+.quickMenuHeader
+{    
+    width:300px;
+    height:32px;
+    background-color:#001159;
+    border-color:#CCCCCC;
+    border-width:thin;
+    border-style:solid;
+    border-top-right-radius:8px;
+    border-top-left-radius:8px;
+    color:White;
+    font-size:15px;
+    font-weight:bold;
+    vertical-align:middle;
+    padding-top:8px;
+}
+
+.quickMenuItems
+{
+    color:#444444;
+    text-decoration:none;
+}
+
+.popularProductsArea
+{
+    background-color:#FFFFFF;
+    min-height:200px;
+    height:auto; 
+    width:100%;
+    border-color:#CCCCCC; 
+    border-width:thin; 
+    border-style:solid; 
+    font-family:Sans-Serif;  
+    font-size:14px;
+    border-radius:4px;
+    margin-top:5px;
+}
+
+.popularProductsHeader
+{    
+    width:100%;
+    height:26px;        
+}
+
+.popularProductsHeaderText
+{
+    font-family:Sans-Serif; 
+    color:White;
+    font-size:16px;
+    font-weight:200;
+    margin-left:10px;    
+}

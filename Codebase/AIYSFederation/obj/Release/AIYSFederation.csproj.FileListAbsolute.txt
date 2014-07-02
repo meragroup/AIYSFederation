@@ -1,0 +1,5 @@
+D:\Atul-Personal\Projects\11-AIYSFederation\Codebase\AIYSFederation\AIYSFederation\bin\AIYSFederation.dll
+D:\Atul-Personal\Projects\11-AIYSFederation\Codebase\AIYSFederation\AIYSFederation\bin\AIYSFederation.pdb
+D:\Atul-Personal\Projects\11-AIYSFederation\Codebase\AIYSFederation\AIYSFederation\obj\Release\ResolveAssemblyReference.cache
+D:\Atul-Personal\Projects\11-AIYSFederation\Codebase\AIYSFederation\AIYSFederation\obj\Release\AIYSFederation.dll
+D:\Atul-Personal\Projects\11-AIYSFederation\Codebase\AIYSFederation\AIYSFederation\obj\Release\AIYSFederation.pdb
